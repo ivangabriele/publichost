@@ -21,7 +21,7 @@
     "test:type": "tsc"
   },
   "dependencies": {
-    "axios": "1.7.7",
+    "axios": "1.8.2",
     "bhala": "3.0.4",
     "commander": "12.1.0",
     "fs-extra": "11.2.0",
