@@ -30,7 +30,7 @@
     "test:type": "yarn workspaces foreach -A run test:type"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.0.6",
     "@commitlint/cli": "19.5.0",
     "@ivangabriele/biome-config": "1.5.0",
     "@ivangabriele/commitlint-config": "2.0.3",
