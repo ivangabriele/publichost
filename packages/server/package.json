@@ -33,7 +33,7 @@
     "@types/koa__router": "12.0.4",
     "@types/node": "22.8.7",
     "@types/ws": "8.5.13",
-    "dotenv": "16.4.5",
+    "dotenv": "17.0.0",
     "publichost-common": "workspace:*"
   }
 }
