@@ -2583,6 +2583,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/http-errors@npm:^2":
+  version: 2.0.5
+  resolution: "@types/http-errors@npm:2.0.5"
+  checksum: 10c0/00f8140fbc504f47356512bd88e1910c2f07e04233d99c88c854b3600ce0523c8cd0ba7d1897667243282eb44c59abb9245959e2428b9de004f93937f52f7c15
+  languageName: node
+  linkType: hard
+
 "@types/istanbul-lib-coverage@npm:*, @types/istanbul-lib-coverage@npm:^2.0.0, @types/istanbul-lib-coverage@npm:^2.0.1":
   version: 2.0.6
   resolution: "@types/istanbul-lib-coverage@npm:2.0.6"
@@ -2662,7 +2669,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/koa@npm:*, @types/koa@npm:2.15.0":
+"@types/koa@npm:*":
   version: 2.15.0
   resolution: "@types/koa@npm:2.15.0"
   dependencies:
@@ -2675,6 +2682,22 @@ __metadata:
     "@types/koa-compose": "npm:*"
     "@types/node": "npm:*"
   checksum: 10c0/3fd591e25ecffc32ffa7cb152d2c5caeccefe5a72cb09d187102d8f41101bdaeeb802a07a6672eac58f805fa59892e79c1cc203ca7b27b0de75d7eac508c2b47
+  languageName: node
+  linkType: hard
+
+"@types/koa@npm:3.0.0":
+  version: 3.0.0
+  resolution: "@types/koa@npm:3.0.0"
+  dependencies:
+    "@types/accepts": "npm:*"
+    "@types/content-disposition": "npm:*"
+    "@types/cookies": "npm:*"
+    "@types/http-assert": "npm:*"
+    "@types/http-errors": "npm:^2"
+    "@types/keygrip": "npm:*"
+    "@types/koa-compose": "npm:*"
+    "@types/node": "npm:*"
+  checksum: 10c0/69ac13b9da736cb645e1837b714c2eb21655b61d341a82389702c3f8157071aad1c0953847e0c51bb1ed3accde839691b7e3d2d422ad1c5f215783a451b52897
   languageName: node
   linkType: hard
 
@@ -7890,7 +7913,7 @@ __metadata:
   dependencies:
     "@faker-js/faker": "npm:9.1.0"
     "@koa/router": "npm:13.1.0"
-    "@types/koa": "npm:2.15.0"
+    "@types/koa": "npm:3.0.0"
     "@types/koa-static": "npm:4.0.4"
     "@types/koa__router": "npm:12.0.4"
     "@types/node": "npm:22.8.7"
