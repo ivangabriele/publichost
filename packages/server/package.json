@@ -22,7 +22,7 @@
     "esm-path": "1.0.1",
     "koa": "2.15.4",
     "koa-static": "5.0.0",
-    "ws": "8.18.0"
+    "ws": "8.20.1"
   },
   "optionalDependencies": {
     "bufferutil": "4.0.8"
