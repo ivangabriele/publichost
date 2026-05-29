@@ -27,7 +27,7 @@
     "fs-extra": "11.2.0",
     "koa": "2.15.4",
     "koa-router": "13.0.1",
-    "ws": "8.18.0"
+    "ws": "8.20.1"
   },
   "optionalDependencies": {
     "bufferutil": "4.0.8"
