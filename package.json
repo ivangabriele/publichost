@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@commitlint/cli": "19.5.0",
+    "@commitlint/cli": "21.2.0",
     "@ivangabriele/biome-config": "1.5.0",
     "@ivangabriele/commitlint-config": "2.0.3",
     "@ivangabriele/prettier-config": "5.0.1",
