@@ -15,7 +15,7 @@
     "test:type": "tsc"
   },
   "dependencies": {
-    "@faker-js/faker": "9.1.0",
+    "@faker-js/faker": "10.5.0",
     "@koa/router": "13.1.0",
     "bhala": "3.0.4",
     "cuid": "3.0.0",

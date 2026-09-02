@@ -871,10 +871,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@faker-js/faker@npm:9.1.0":
-  version: 9.1.0
-  resolution: "@faker-js/faker@npm:9.1.0"
-  checksum: 10c0/bfcde8032f0b0ee94e3e52157a86c0a3f8d85899ff126b4e3e030fcb9fec1949e21c9ce5ae3d0af5f192c13641cc2003fefa55768d9620d27eb061cea5b83769
+"@faker-js/faker@npm:10.5.0":
+  version: 10.5.0
+  resolution: "@faker-js/faker@npm:10.5.0"
+  checksum: 10c0/2de3c7b8f41592d52cefc3ab4c99536656249bca78d5ad184a3b7ac43ecc9d946056cef2c4d37060373ef06ad992d82530de08479fabe16fdbe77b911d842446
   languageName: node
   linkType: hard
 
@@ -7888,7 +7888,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "publichost-server@workspace:packages/server"
   dependencies:
-    "@faker-js/faker": "npm:9.1.0"
+    "@faker-js/faker": "npm:10.5.0"
     "@koa/router": "npm:13.1.0"
     "@types/koa": "npm:2.15.0"
     "@types/koa-static": "npm:4.0.4"
