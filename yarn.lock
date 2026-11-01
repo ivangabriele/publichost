@@ -2703,12 +2703,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.8.7":
-  version: 22.8.7
-  resolution: "@types/node@npm:22.8.7"
+"@types/node@npm:26.6.6":
+  version: 26.6.6
+  resolution: "@types/node@npm:26.6.6"
   dependencies:
-    undici-types: "npm:~6.19.8"
-  checksum: 10c0/14372885db80059ed6e92c320b2bcd8f7dc271698adce11f51aa0f424a3f82aa1749a4f66321b87043791b894346b2458d514cbb65ce70167c2fd8a78a124947
+    undici-types: "npm:~8.9.0"
+  checksum: 10c0/5cb63f644f6e85a257a9cd2403cbcbe196760e2a35fd3ec9fb8b5cff663e14cc832b198cc17b53f870a2e30900ed45a1fb3f53e6589aba26b8e8c484aa672053
   languageName: node
   linkType: hard
 
@@ -7841,7 +7841,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "publichost-common@workspace:packages/common"
   dependencies:
-    "@types/node": "npm:22.8.7"
+    "@types/node": "npm:26.6.6"
   languageName: unknown
   linkType: soft
 
@@ -7893,7 +7893,7 @@ __metadata:
     "@types/koa": "npm:2.15.0"
     "@types/koa-static": "npm:4.0.4"
     "@types/koa__router": "npm:12.0.4"
-    "@types/node": "npm:22.8.7"
+    "@types/node": "npm:26.6.6"
     "@types/ws": "npm:8.5.13"
     bhala: "npm:3.0.4"
     bufferutil: "npm:4.0.8"
@@ -7915,7 +7915,7 @@ __metadata:
   resolution: "publichost@workspace:packages/client"
   dependencies:
     "@types/fs-extra": "npm:11.0.4"
-    "@types/node": "npm:22.8.7"
+    "@types/node": "npm:26.6.6"
     "@types/ws": "npm:8.5.13"
     axios: "npm:1.8.2"
     bhala: "npm:3.0.4"
@@ -9316,10 +9316,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~6.19.8":
-  version: 6.19.8
-  resolution: "undici-types@npm:6.19.8"
-  checksum: 10c0/078afa5990fba110f6824823ace86073b4638f1d5112ee26e790155f481f2a868cc3e0615505b6f4282bdf74a3d8caad715fd809e870c2bb0704e3ea6082f344
+"undici-types@npm:~8.9.0":
+  version: 8.9.0
+  resolution: "undici-types@npm:8.9.0"
+  checksum: 10c0/51c712c20c087368f62c6fc0f2bc49fa76bfe5dec28ff01584bb677ff29b0622569783c02d43e151143808c48c0503f804093bd2c491b10f2a830138034cb451
   languageName: node
   linkType: hard
 
